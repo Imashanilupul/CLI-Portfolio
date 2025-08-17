@@ -41,7 +41,7 @@ The terminal interface reflects my appreciation for clean, functional design and
 
 ## 🚀 Live Demo
 
-Experience the terminal: [Your Portfolio URL]([https://your-username.vercel.app](https://cli-portfolio-seven.vercel.app/))
+Experience the terminal: [Imasha_Nilupul](https://cli-portfolio-seven.vercel.app/)
 
 ## 🛠️ Built With
 
@@ -66,6 +66,7 @@ Found a bug or have a suggestion? Feel free to open an issue or submit a pull re
 ## 👤 Author
 
 Imasha Nilupul Jayarathne.
+[linkedin](https://www.linkedin.com/in/imasha-jayarathne/)
 
 ## 📝 License
 
