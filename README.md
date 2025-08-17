@@ -41,12 +41,12 @@ The terminal interface reflects my appreciation for clean, functional design and
 
 ## 🚀 Live Demo
 
-Experience the terminal: [Your Portfolio URL](https://your-username.vercel.app)
+Experience the terminal: [Your Portfolio URL]([https://your-username.vercel.app](https://cli-portfolio-seven.vercel.app/))
 
 ## 🛠️ Built With
 
 - **Framework**: Next.js
-- **Styling**: Tailwind CSS  
+- **Styling**: CSS  
 - **React**: React 18
 - **Typography**: JetBrains Mono font for authentic terminal feel
 - **Deployment**: Vercel
